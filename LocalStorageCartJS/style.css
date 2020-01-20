@@ -1,0 +1,19 @@
+.cart-container {
+  display: flex;
+}
+
+.cart-container > * {
+  margin-right: 3rem;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.cart-item1 {
+  background: red;
+}
+.cart-item2 {
+  background: greenyellow;
+}
+.cart-item3 {
+  background: blueviolet;
+}
